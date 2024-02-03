@@ -1,0 +1,6 @@
+small_test
+test_folder
+.env
+test_output.csv
+test_output_gpt4.csv
+*.pdf
